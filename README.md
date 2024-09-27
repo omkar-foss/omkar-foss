@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’ve been recently trying to steal time from life to contribute to open-source software
+- 🌱 I love reading philosophy books
+- 💬 Ask me about Python, Go or Rust
+- 👯 I’m always looking to contribute to social impact projects
+- 🐼 Fun fact, Pandas spend around 12 hours everyday eating! (I wish I were one ;-P)
