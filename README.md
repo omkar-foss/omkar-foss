@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’ve been recently trying to steal time from life to contribute to open-source software
+- ❤️ Contributing to open-source software is my _ikigai_ 
 - 🌱 I love reading philosophy books
 - 💬 Ask me about Python, Go or Rust
 - 👯 I’m always looking to contribute to social impact projects
-- 🐼 Fun fact, Pandas spend around 12 hours everyday eating! (I wish I were one ;-P)
+- 🐼 Fun fact, Pandas spend around 12 hours everyday eating! (sometimes I wish I were one ;-P)
