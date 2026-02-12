@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, world!
 
 <!--
 **omkar-foss/omkar-foss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ Contributing to open-source software is my _ikigai_ 
-- 🌱 I love reading philosophy books
-- 💬 Ask me about Python, Go or Rust
-- 👯 I’m always looking to contribute to social impact projects
-- 🐼 Fun fact, Pandas spend around 12 hours everyday eating! (sometimes I wish I were one ;-P)
+>_"Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without losing something."_
+>**— Richard Stallman, GNU**
+
+🛡️ [Keyoxide profile](https://keyoxide.org/aspe:keyoxide.org:ES7JOSPOIGRYPZI5KJUNABQJEI) | 📰 [Hacker News](https://news.ycombinator.com/submitted?id=omkar-foss)
+
+- ❤️ Contributor to [delta-rs](https://github.com/delta-io/delta-rs), [Apache Airflow](https://github.com/apache/airflow) and others
+- 📖 I firmly believe in the tenets of the [OSI Definition](https://opensource.org/osd)
+- 💻 Ask me about Python, Rust or Go
+- 🦮 Always looking to contribute to social impact projects
