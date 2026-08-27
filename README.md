@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**omkar-foss/omkar-foss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HTTP 429: RATE_LIMIT_EXCEEDED
 
-Here are some ideas to get you started:
+```text
+COPILOT ERROR -- [Rails/7.1.3] Error in line 42: Too Many Requests
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+This page or person might be temporarily or permanently unavailable due to overload from
+aggressive LLM scrapers and agentic bot PRs. Please wait until the abuse stops, then try
+refreshing this page.
+
+<div align="right">
+
+_**LAST_UPDATED:** 2022-11-22 00:00:00_
+
+</div>
